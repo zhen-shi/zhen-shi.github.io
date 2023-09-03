@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 枕石</title>
+        <link>https://example.com/post/</link>
+        <description>Recent content in Posts on 枕石</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sat, 02 Sep 2023 23:38:53 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>开端｜第一万零一次的 Hello World!</title>
+        <link>https://example.com/p/%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%B8%80%E4%B8%87%E9%9B%B6%E4%B8%80%E6%AC%A1%E7%9A%84-hello-world/</link>
+        <pubDate>Sat, 02 Sep 2023 23:38:53 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%B8%80%E4%B8%87%E9%9B%B6%E4%B8%80%E6%AC%A1%E7%9A%84-hello-world/</guid>
+        <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+&lt;p&gt;我在本科修习计算机魔法与艺术的时候，进行过很多次博客搭建。其中某个技术博客迭代频繁，从第一个学期选择的博客网站，到托管在 Github Page 的静态页面，经历过非常多次的装修和折腾甚至推倒重来，在我毕业后尘封，存放着没有人愿意看的博文，至今仍然漂浮在 Github Page 的某处。&lt;/p&gt;
+&lt;p&gt;此外还有心血来潮的冲动消费：我们魔法系的学生一生中总会向云服务厂商上交几次赎罪券，或许是今天，或许是每天。学生优惠固然便宜，但购买后的使用频率通常感人。我大三的某一天突发恶疾，一拍大腿给自己购买了一年的云服务器和域名，还斥巨资买了好看的付费博客主题准备大写特写，实际上部署之后再也没有写过新的文章，一个月后更是连服务器都没有再登陆过。就这样过了一年，我拒接了无数个某某云的到期提醒电话，这个中道崩殂的博客也如愿同云服务器一起被扔进了赛博碎纸机。&lt;/p&gt;
+&lt;h1 id=&#34;新的开端&#34;&gt;新的开端&lt;/h1&gt;
+&lt;p&gt;从魔法系毕业后，我放下了对自己的 push，不再强求自己写什么狗屁不通的技术博客——当然，社畜也不存在这样的精力。与此同时，因为想要在网络世界与现实社交圈子进行切割，同时也越发痛恨言论审查和 ip 属地展示等种种行为，我从简中互联网开启了赛博流亡。大概是一年前，我逐渐放弃微博来到毛象。某一天我在毛象世界时间线遨游的时候，突然发现：这里有人在写博客，而且不是没人愿意看的技术博客！&lt;/p&gt;
+&lt;p&gt;记录自己的精神世界生活在那时候的我看来很酷，但我当时觉得自己并没有精力去做同样的事。一来我的生活越发无趣：大部分时间在上班，剩下的时间在打游戏、刷手机、睡觉；二来我的语言文字能力在长久未锻炼的情况下退化极为严重，表达能力也支离破碎——十个字以上的句子对我来说就是长难句了！&lt;/p&gt;
+&lt;p&gt;但我逐渐发现问题所在：搬到毛象后，嘟文其实并不那么好翻阅；同时为了更好的隐藏网络身份，我也努力避免在网络平台提及我的现实生活。这导致我在尝试回忆过去一两年时，很难找到非碎片化的记录。我的人生虽然并不宝贵，但回忆对我而言还是很重要的。&lt;/p&gt;
+&lt;p&gt;另外我也会发现，许多珍贵体验的感触转瞬即逝。玩到首发的王国之泪后，我曾经说5月11日是我今年最开心的一天，但仅仅时隔数月，我就很难再与当时的情感产生共鸣了。珍贵的体验可遇不可求，我想在感触尚存时记录下一点。&lt;/p&gt;
+&lt;h1 id=&#34;千日筑基&#34;&gt;千日筑基&lt;/h1&gt;
+&lt;p&gt;在前文提到的静态博客搭建中，我曾经选择过 &lt;code&gt;Jekyll&lt;/code&gt; 和 &lt;code&gt;Hexo&lt;/code&gt;，最后定格在了 &lt;code&gt;Hexo&lt;/code&gt; 的 &lt;code&gt;NexT&lt;/code&gt;。这次我想尝试一些新东西，基于个人对后端语言的偏好，我选择了 &lt;code&gt;Hugo&lt;/code&gt; 作为框架。在 &lt;code&gt;Hugo&lt;/code&gt; 的主题里，我觉得只有热度最高的 &lt;code&gt;Stack&lt;/code&gt; 比较好看。&lt;/p&gt;
+&lt;p&gt;至于部署，我想选择我熟悉的 Github Page 静态托管。比起服务器部署，我觉得静态托管的发布方式更加简洁，也更大概率能在互联网世界存活更久，更能免于疏于维护下的灰飞烟灭。&lt;/p&gt;
+&lt;p&gt;关于域名，虽然 github.io 很好，但是我新建的这个账号的名字奇奇怪怪！2023年了，不奇怪的 github 用户名应该都被抢注了吧，因此我要给我的 mojo dojo casa house 买一个域名。&lt;/p&gt;
+&lt;h1 id=&#34;写点什么&#34;&gt;写点什么&lt;/h1&gt;
+&lt;p&gt;以我自己的估计，大概80%会是游戏记录，10%日常/书影音（真的能有吗？），剩下的部分或许写一点博客装修/写作优化记录吧。&lt;/p&gt;
+&lt;p&gt;这篇文章写到了凌晨快三点，我的写作能力果然退化严重。预期是1-2个月至少有一篇文章，争取不鸽。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
