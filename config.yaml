@@ -4,8 +4,6 @@ theme: hugo-theme-stack
 paginate: 5
 title: 枕石
 
-# Change it to your Disqus shortname before using
-disqusShortname: zhenshi
 
 # GA Tracking ID
 googleAnalytics:
@@ -55,7 +53,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname:
@@ -84,15 +82,17 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
-            lang:
+            serverURL: https://waline-911zyz142-zhen-shi.vercel.app/
+            lang: en
             pageview:
             emoji:
+                - https://unpkg.com/@waline/emojis@1.2.0/alus
                 - https://unpkg.com/@waline/emojis@1.0.1/weibo
+ 
             requiredMeta:
-                - name
+                - nick
                 - email
-                - url
+            login: disable
             locale:
                 admin: Admin
                 placeholder:
@@ -206,3 +206,5 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+googleAnalytics: G-L4Q6TKMJDY
