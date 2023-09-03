@@ -2,17 +2,10 @@ baseurl: https://example.com
 languageCode: en
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
-
-languages:
-    en:
-        languageName: en
-        title: 枕石
-        description: 故山犹自不堪听
-        weight: 2
+title: 枕石
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: zhenshi
 
 # GA Tracking ID
 googleAnalytics:
@@ -34,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2023
@@ -46,7 +39,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: 
+        subtitle: 鲸饮未吞海，剑气已横秋。
         avatar:
             enabled: true
             local: true
