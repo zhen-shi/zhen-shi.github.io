@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "3d5ef2d04aace1a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "61fc1cc10c7d7dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "270c8f311879425a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb7f0cf4b97f72d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dda8ab9b3859cba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b42401248bf911",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1686ff2f148091b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a851468e7b22e69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb324bf3d4ddf20c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe5990d3c797a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea5c31fd66d80fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e97416059d7bd7bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca17a041e8d6d69d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "391e46ea4076d09d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "270c8f311879425a",
+  "lastOpenFiles": [
+    "content/post/2023-July/index.md",
+    "resources/_gen/images/post/2023-July/1693931835278_hudf8fa21951a2611e756d678e3368d511_4864531_1024x0_resize_q75_box.jpg",
+    "resources/_gen/images/post/2023-July/1693931835278_hudf8fa21951a2611e756d678e3368d511_4864531_480x0_resize_q75_box.jpg",
+    "resources/_gen/images/post/2023-July/1693931825480_hu69aef79aade7adbabb3998d9d138a981_4659378_1024x0_resize_q75_box.jpg",
+    "resources/_gen/images/post/2023-July/1693931825480_hu69aef79aade7adbabb3998d9d138a981_4659378_480x0_resize_q75_box.jpg",
+    "resources/_gen/images/post/2023-July/1693931812187_hu3889e0b0a5b6cb2ea8f6ff0a17c378fb_5888553_1024x0_resize_q75_box.jpg",
+    "resources/_gen/images/post/2023-July/1693931812187_hu3889e0b0a5b6cb2ea8f6ff0a17c378fb_5888553_480x0_resize_q75_box.jpg",
+    "content/post/2023-July/1693931835278.jpg",
+    "content/post/2023-July/1693931825480.jpg",
+    "content/post/2023-July/1693931812187.jpg",
+    "1693925645438.jpg",
+    "resources/_gen/images/post/2023-July",
+    "content/post/2023-July.md",
+    "content/post/2023-July/2023-July.md",
+    "content/post/2023-July",
+    "content/post/pics/2023-July",
+    "content/post/pics",
+    "static/img",
+    "content/post/hello-world.md",
+    "themes/hugo-theme-stack/layouts/shortcodes/spoiler.html",
+    "content/_index.zh-cn.md",
+    "content/_index.md"
+  ]
+}
