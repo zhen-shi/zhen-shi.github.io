@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/post/2023-July/index.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff70655c42bf8f77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/post/2023-July/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/post/2023-July/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/post/2023-July/index.md"
               }
             }
           }
@@ -146,8 +157,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "270c8f311879425a",
+  "active": "ff70655c42bf8f77",
   "lastOpenFiles": [
+    "content/post/blog-modify-1/9FED7146-D19F-484A-8103-78F678FFE19B.png",
+    "content/post/blog-modify-1",
+    "themes/hugo-theme-stack/layouts/shortcodes/spoiler.html",
+    "themes/hugo-theme-stack/i18n/cs.yaml",
+    "themes/hugo-theme-stack/config.yaml",
+    "themes/hugo-theme-stack/exampleSite/config.yaml",
+    "content/post/hello-world.md",
+    "README.md",
     "content/post/2023-July/index.md",
     "resources/_gen/images/post/2023-July/1693931835278_hudf8fa21951a2611e756d678e3368d511_4864531_1024x0_resize_q75_box.jpg",
     "resources/_gen/images/post/2023-July/1693931835278_hudf8fa21951a2611e756d678e3368d511_4864531_480x0_resize_q75_box.jpg",
@@ -166,8 +185,6 @@
     "content/post/pics/2023-July",
     "content/post/pics",
     "static/img",
-    "content/post/hello-world.md",
-    "themes/hugo-theme-stack/layouts/shortcodes/spoiler.html",
     "content/_index.zh-cn.md",
     "content/_index.md"
   ]
