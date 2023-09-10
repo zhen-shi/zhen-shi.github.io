@@ -1,5 +1,5 @@
 ---
-title: Aug |  沙伦的玫瑰
+title: Aug |  去战斗，直到石头能抵达太阳
 date: 2023-09-09T18:45:41+08:00
 categories:
   - Monthly
