@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/TOTK/index.md",
+                "file": "post/blog-modify-1/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/TOTK/index.md",
+                "file": "post/blog-modify-1/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/TOTK/index.md",
+                "file": "post/blog-modify-1/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/TOTK/index.md"
+                "file": "post/blog-modify-1/index.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "dcaf88309a0aa5f4",
   "lastOpenFiles": [
+    "post/TOTK/index.md",
+    "post/blog-modify-1/index.md",
+    "post/blog-modify-1/9FED7146-D19F-484A-8103-78F678FFE19B.png",
     "post/hello-world.md"
   ]
 }
