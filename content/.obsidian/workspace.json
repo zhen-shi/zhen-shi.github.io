@@ -15,7 +15,7 @@
               "state": {
                 "file": "post/blog-modify-1/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "dcaf88309a0aa5f4",
   "lastOpenFiles": [
-    "post/TOTK/index.md",
-    "post/blog-modify-1/index.md",
     "post/blog-modify-1/9FED7146-D19F-484A-8103-78F678FFE19B.png",
-    "post/hello-world.md"
+    "post/TOTK/psc.jpeg",
+    "post/blog-modify-1/index.md",
+    "post/hello-world.md",
+    "post/TOTK/index.md"
   ]
 }
