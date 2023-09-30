@@ -5,7 +5,6 @@ categories:
   - Blog
 tags:
   - 写作工具流
-draft: true
 ---
 
 # 打造基于 Git + Obsidian 的多端同步写作工具流
