@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/hello-world.md",
+                "file": "content/post/2023-July/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/hello-world.md",
+                "file": "content/post/2023-July/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/hello-world.md"
+                "file": "content/post/2023-July/index.md"
               }
             }
           },
