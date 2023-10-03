@@ -1,7 +1,7 @@
 baseurl: https://example.com
 languageCode: en
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: 枕石
 
 
