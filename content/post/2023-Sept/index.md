@@ -3,7 +3,9 @@ title: Sept｜然后我成为死神，成为世界的毁灭者
 date: 2023-10-03T13:37:30+08:00
 categories:
   - Monthly
-draft: true
+tags:
+  - 奥本海默
+  - 血源
 ---
 
 # 游戏
