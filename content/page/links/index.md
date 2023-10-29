@@ -11,7 +11,7 @@ menu:
         params:
             icon: link
 
-comments: true
+comments: false
 license: false
 ---
 
