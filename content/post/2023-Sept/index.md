@@ -6,6 +6,7 @@ categories:
 tags:
   - 奥本海默
   - 血源
+slug: 2023-Sept
 ---
 
 # 游戏
