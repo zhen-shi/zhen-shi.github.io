@@ -1,5 +1,5 @@
 ---
-title: 广州｜普通玩家的 Zelda Only 奇遇记
+title: 广州 | 普通玩家的 Zelda Only 奇遇记
 date: 2023-10-29T23:37:29+08:00
 categories:
   - Life

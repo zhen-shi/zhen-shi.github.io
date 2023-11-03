@@ -1,5 +1,5 @@
 ---
-title: Oct｜
+title: Oct |
 date: 2023-10-14T22:49:17+08:00
 categories:
   - Monthly
