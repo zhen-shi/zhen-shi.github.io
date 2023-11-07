@@ -1,5 +1,5 @@
 ---
-title: Oct | 她一次也没有回头
+title: Oct | 人生幸事，莫过于升官发财老公
 date: 2023-11-04
 categories:
   - Monthly
