@@ -15,4 +15,4 @@ menu:
 
 主机游戏爱好者，偶尔读书观影，总之是个没品味的东西。
 
-如果想了解我近两年玩过的游戏，可以点击：[Game Board](https://unmarred-period-bcd.notion.site/Game-Board-c70c0139e90144deab8eb340fbe44292)
+如果想了解我的游戏/读书/观影偏好，可以访问：[NeoDB](https://neodb.social/users/HashBrown@bgme.me/) 。
