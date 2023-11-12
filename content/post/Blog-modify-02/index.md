@@ -1,6 +1,9 @@
 ---
-title: "Blog Modify 02"
-date: 2023-11-04T17:03:47+08:00
+title: 装修 | 脱离样板间的二三事
+date: 2023-11-07
 draft: true
+description: 
+categories:
+  - Blog
 ---
 
