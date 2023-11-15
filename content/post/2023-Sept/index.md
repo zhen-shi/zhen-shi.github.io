@@ -110,3 +110,5 @@ slug: 2023-Sept
 唉双人成行，虽然我承认它的关卡设计相当出色，但是我实在太讨厌这个剧情和人设了。最生气的是我们都跳过所有剧情了，游戏过程中还要听到夫妻吵架，以及两个角色对对方没什么好气的任务提示。请闭嘴！
 
 我还是比较喜欢毛线小精灵，至少毛线小精灵没有嘴。
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zuj6R6pdag0GvN8oZQjTn?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

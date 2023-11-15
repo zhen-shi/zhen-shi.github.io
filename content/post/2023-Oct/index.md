@@ -5,6 +5,10 @@ categories:
   - Monthly
 draft: false
 slug: 2023-Oct
+tags:
+  - 白夜行
+  - unpacking
+  - 博物馆
 ---
 
 ## 读书
