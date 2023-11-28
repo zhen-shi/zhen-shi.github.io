@@ -9,6 +9,7 @@ tags:
   - 双枰记
   - 拉赫马拉松
   - 霸王别姬
+  - NintendoLiveHK
 ---
 
 {{< timeline date="2023-11-04" title="《双枰记》" url="#双枰记" >}}
@@ -17,7 +18,7 @@ tags:
 
 {{< timeline date="2023-11-11" title="《霸王别姬》" description="香港：4K修复版三十周年重映" url="#霸王别姬" >}}
 
-{{< timeline date="2023-11-25" title="Nintendo Live HK" description="" url="#nintendo-live-hk" >}}
+{{< timeline date="2023-11-25" title="Nintendo Live 2023 Hong Kong" description="" url="#nintendo-live-2023-hong-kong" >}}
 
 全年吃得最好的一个月，值得引入一个时间轴纪念一下。
 
@@ -51,10 +52,12 @@ tags:
 
 第一次尝试看是十岁出头，因为对后半的剧情全无印象，推测当初大概是没有看完。不过没看完也未必是坏事，把这部片子留给能够看懂这部片子的年纪，留给影院和大银幕，反而会成为更加珍贵的体验。
 
+
 不过看电影的“同性”标签，无论十几年前还是现在，我都不觉得这是一个有关取向的故事，而是一个关于性别认同的故事。
 
 
 
 ![他是假霸王，你是真虞姬](pic_1.png)
 
-## Nintendo Live HK
+## Nintendo Live 2023 Hong Kong
+
