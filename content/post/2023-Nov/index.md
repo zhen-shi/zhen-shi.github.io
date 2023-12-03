@@ -1,7 +1,7 @@
 ---
 title: Nov | 是幽深的海水，是炽烈的火焰
-date: 2023-12-01
-draft: true
+date: 2023-12-03
+draft: false
 slug: 2023-Nov
 categories:
   - Monthly
