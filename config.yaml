@@ -83,7 +83,7 @@ params:
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
             serverURL: https://zhen-shi-waline.vercel.app/
-            lang: en
+            lang: zh-CN
             pageview:
             emoji:
                 - https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs
