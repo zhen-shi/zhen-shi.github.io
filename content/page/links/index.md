@@ -2,9 +2,11 @@
 title: Links
 links:
   - title: 你留下点希望的影像吧
-    description: A thing of beauty, will never fade away.
+    description: 回到现场时我们只发现了这个
     website: https://www.asecarc.top/
-    image: asecarc.png
+  - title: 小球飞鱼
+    description: 我们会一起遇见鲸鱼吗？
+    website: https://mantyke.icu/about
 menu:
     main: 
         weight: -50
@@ -14,5 +16,3 @@ menu:
 comments: false
 license: false
 ---
-
-*如果您拥有我的任何联系方式，可以随时联系我交换友链！*
