@@ -6,7 +6,7 @@ links:
     website: https://www.asecarc.top/
   - title: 小球飞鱼
     description: 我们会一起遇见鲸鱼吗？
-    website: https://mantyke.icu/about
+    website: https://mantyke.icu/
 menu:
     main: 
         weight: -50
