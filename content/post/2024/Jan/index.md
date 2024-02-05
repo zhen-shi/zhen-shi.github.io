@@ -1,7 +1,7 @@
 ---
 title: Jan | 遗忘是由灰烬构成，难道还有更好的命运？
 date: 2024-02-05
-draft: true
+draft: false
 slug: 2024-Jan
 categories:
   - Monthly
