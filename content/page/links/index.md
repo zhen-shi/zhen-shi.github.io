@@ -8,8 +8,8 @@ links:
     description: 我们会一起遇见鲸鱼吗？
     website: https://mantyke.icu/
   - title: A Purrception
-    description: 我们会一起遇见鲸鱼吗？
-    website: https://mantyke.icu/
+    description: 谨慎观察(=‘ｘ‘=)
+    website: https://tortie.me/
 menu:
     main: 
         weight: -50
