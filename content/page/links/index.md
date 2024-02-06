@@ -10,6 +10,9 @@ links:
   - title: A Purrception
     description: 谨慎观察(=‘ｘ‘=)
     website: https://tortie.me/
+  - title: 夜航南飞
+    description: The world is beautiful. Let me come through it to you.
+    website: https://www.notion.so/39d7013ecdf844c4b948ef329a691a92
 menu:
     main: 
         weight: -50
