@@ -11,6 +11,7 @@ menu:
         weight: -90
         params:
             icon: user
+comments: false
 ---
 
 主机游戏爱好者，偶尔附庸风雅，总之是个没品味的东西。

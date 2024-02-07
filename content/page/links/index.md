@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Friends
 links:
   - title: 你留下点希望的影像吧
     description: 回到现场时我们只发现了这个
