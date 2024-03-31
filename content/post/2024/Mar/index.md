@@ -10,7 +10,8 @@ tags:
   - 勇敢的心：世界大战
 ---
 
-{{< spotify 0Zn1M6F0CcBtBJWgOzRJUW >}}
+{{< music id="1946687253" type="song" server="netease" >}}
+
 
 ## 《游戏为什么好玩》
 
