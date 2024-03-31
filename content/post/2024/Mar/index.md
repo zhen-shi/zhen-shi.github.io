@@ -10,7 +10,7 @@ tags:
   - 勇敢的心：世界大战
 ---
 
-{{< music id="1946687253" type="song" server="netease" >}}
+{{< music id="1946687253" type="song" server="netease" loop="all" >}}
 
 
 ## 《游戏为什么好玩》

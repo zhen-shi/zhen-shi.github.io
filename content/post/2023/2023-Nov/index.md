@@ -24,7 +24,7 @@ tags:
 
 标题是在说拉二，请听！
 
-{{< music id="28043955" type="song" server="netease" >}}
+{{< music id="28043955" type="song" server="netease" loop="all" >}}
 
 ## 《双枰记》
 
