@@ -74,10 +74,6 @@ tags:
 
 下半场的贝七其实我在听录音的时候没有特别喜欢，但是现场演绎的层次特别丰富特别清晰，可以很清楚得分辨出各个声部发出的声音，弦乐的弱奏处理得特别动人，听完现场之后感觉真正理解了贝七，名副其实的酒神盛宴。
 
-{{< quote author="Ludwig van Beethoven">}}
-"When I open my eyes I must sigh, for what I see is …  the world which does not know that music is a higher revelation than all wisdom and philosophy, the wine which inspires one to new generative processes, and I am the Bacchus who presses out this glorious wine for mankind and makes them spiritually drunken."
-{{< /quote >}}
-
 这场指挥特别可爱！打了中文小抄，开头结尾都在和我们讲中文，指挥是匈牙利人，第一首安可是《匈牙利万岁波尔卡》，非常欢乐激昂能调动情绪的一首曲子，中途指挥面向观众示意之后全场开始打拍子，氛围特别好特别开心；第二首安可是《浏阳河》，结尾首席小提琴的抒情非常曼妙。结束的时候都22:22了，非常有诚意的一场，出音乐厅的时候感觉自己都被这种情绪感染了，吹夜风的时候脸上都带着笑。
 
 一月听完邓泰山之后我想听交响于是订了 VFCO，这次听完之后我我好想听编制完整的交响啊……近期本地没有合适的演出了，于是订了下个月的港乐贝三，希望能听到配置全一些的，更希望能感受一下高素质观众，祈祷nia。
