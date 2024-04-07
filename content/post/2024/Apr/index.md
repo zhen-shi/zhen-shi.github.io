@@ -1,7 +1,7 @@
 ---
 title: COMICUP2024SP Repo(TODO)
 date: 2022-04-06
-draft: false
+draft: true
 slug: COMICUP2024SP
 ---
 
