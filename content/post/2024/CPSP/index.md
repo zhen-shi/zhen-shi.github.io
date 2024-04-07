@@ -1,7 +1,7 @@
 ---
 title: 广州 | COMICUP2024SP
 date: 2024-04-06
-draft: true
+draft: false
 slug: COMICUP2024SP
 categories:
   - Life
