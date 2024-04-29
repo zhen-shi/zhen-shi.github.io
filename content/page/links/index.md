@@ -20,7 +20,7 @@ menu:
     main: 
         weight: -50
         params:
-            icon: link
+            icon: friends
 
 comments: false
 license: false

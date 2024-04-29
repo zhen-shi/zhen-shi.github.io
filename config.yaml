@@ -39,7 +39,7 @@ params:
         emoji: 
         subtitle: 鲸饮未吞海，剑气已横秋。
         avatar:
-            enabled: true
+            enabled: false
             local: true
             src: img/avatar.png
 
