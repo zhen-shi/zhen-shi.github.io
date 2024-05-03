@@ -6,7 +6,7 @@ aliases:
   - library
 menu:
   main:
-    weight: -60
+    weight: -70
     params:
       icon: books
 comments: false
