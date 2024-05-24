@@ -9,7 +9,6 @@ tags:
   - ClassicalMusic
   - Game
   - Theatre
-  - Exhibition
 ---
 
 {{< timeline date="2023-11-04" title="《双枰记》" url="#双枰记" >}}
