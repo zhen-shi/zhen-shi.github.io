@@ -6,8 +6,9 @@ slug: 2024-Mar
 categories:
   - Monthly
 tags:
-  - 对我无害之人
-  - 勇敢的心：世界大战
+  - Game
+  - Book
+  - ClassicalMusic
 ---
 
 {{< music id="1946687253" type="song" server="netease" loop="all" >}}

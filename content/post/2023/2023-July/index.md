@@ -4,10 +4,9 @@ date: 2023-09-05T00:17:40+08:00
 categories:
   - Monthly
 tags:
-  - 幽灵诡计
-  - 血源诅咒
-  - 芭比
-  - 博物馆
+  - Game
+  - Movie
+  - Museum
 slug: 2023-July
 ---
 

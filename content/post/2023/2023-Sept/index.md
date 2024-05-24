@@ -4,8 +4,8 @@ date: 2023-10-03T13:37:30+08:00
 categories:
   - Monthly
 tags:
-  - 奥本海默
-  - 血源
+  - Game
+  - Movie
 slug: 2023-Sept
 ---
 

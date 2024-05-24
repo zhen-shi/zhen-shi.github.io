@@ -4,8 +4,8 @@ date: 2023-09-09T18:45:41+08:00
 categories:
   - Monthly
 tags:
-  - 如龙
-  - 圣母
+  - Game
+  - Book
 slug: 2023-Aug
 ---
 

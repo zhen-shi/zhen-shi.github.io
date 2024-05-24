@@ -6,9 +6,9 @@ categories:
 draft: false
 slug: 2023-Oct
 tags:
-  - 白夜行
-  - unpacking
-  - 博物馆
+  - Game
+  - Museum
+  - Book
 ---
 
 ## 读书

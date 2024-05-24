@@ -6,7 +6,7 @@ slug: COMICUP2024SP
 categories:
   - Life
 tags:
-  - CPSP
+  - Exhibition
 ---
 ## 任天街
 

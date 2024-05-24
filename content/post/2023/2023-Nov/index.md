@@ -6,10 +6,10 @@ slug: 2023-Nov
 categories:
   - Monthly
 tags:
-  - 双枰记
-  - 拉赫马拉松
-  - 霸王别姬
-  - NintendoLiveHK
+  - ClassicalMusic
+  - Game
+  - Theatre
+  - Exhibition
 ---
 
 {{< timeline date="2023-11-04" title="《双枰记》" url="#双枰记" >}}

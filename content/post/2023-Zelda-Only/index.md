@@ -5,6 +5,8 @@ categories:
   - Life
 draft: false
 slug: 2023-Guangzhou-Zelda-Only
+tags:
+  - Exhibition
 ---
 
 我已经一万年不当二次元了，得知广州要办塞 Only 的途径其实挺偶然的，我某天刷嗼嗼，有好心的大人提到了广州要办塞尔达 Only。看了一下，感觉是可以去的，遂去之。

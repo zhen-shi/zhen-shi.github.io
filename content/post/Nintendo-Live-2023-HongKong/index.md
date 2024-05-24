@@ -5,7 +5,7 @@ draft: false
 categories:
   - Life
 tags:
-  - NintendoLiveHK
+  - Exhibition
 slug: Nintendo-Live-2023-HongKong
 ---
 ![](IMG_20231126_094026.jpg)

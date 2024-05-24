@@ -6,7 +6,8 @@ slug: 2024-Apr
 categories:
   - Monthly
 tags:
-  - 香港管弦乐团
+  - ClassicalMusic
+  - Book
 ---
 ## COMICUP2024SP
 

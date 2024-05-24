@@ -6,8 +6,10 @@ slug: 2024-Jan
 categories:
   - Monthly
 tags:
-  - 超级马里奥兄弟：惊奇
-  - 诡秘之主
+  - Game
+  - Book
+  - ClassicalMusic
+  - Museum
 ---
 ## 诡秘之主
 

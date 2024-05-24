@@ -6,8 +6,8 @@ categories:
   - Monthly
 slug: 2023-Dec
 tags:
-  - 血源诅咒
-  - 爱乐之城
+  - Game
+  - Movie
 ---
 
 ## 血源诅咒
