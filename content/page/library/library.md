@@ -67,6 +67,8 @@ comments: false
 - **宗教音乐**：
 	- 希望在我的葬礼上播放[莫扎特的安魂曲](https://imslp.org/wiki/Requiem_in_D_minor%2C_K.626_(Mozart%2C_Wolfgang_Amadeus))
 
+我偏爱的版本可以看我在 [neodb](https://neodb.social/users/HashBrown/complete/music/)的标记。
+
 放一个播放列表在这里！路过的朋友可以随便选一首听一听。如果需要搜索的话，可以用链接里面的名字在音乐软件里搜索，这样可以相对比较方便的搜索到。
 
 {{< music id="9945132977" type="playlist" server="netease" >}}
