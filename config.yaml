@@ -177,11 +177,11 @@ menu:
     main: []
 
     social:
-        - identifier: mastodon
-          name: Mastodon
-          url: https://bgme.me/@HashBrown
-          params:
-              icon: brand-mastodon
+        # - identifier: mastodon
+        #   name: Mastodon
+        #   url: https://bgme.me/@HashBrown
+        #   params:
+        #       icon: brand-mastodon
 
         - identifier: neodb
           name: NeoDB
