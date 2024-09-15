@@ -1,5 +1,10 @@
 [
     {
+        "title": "只狼：影逝二度",
+        "url": "https://www.igdb.com/games/sekiro-shadows-die-twice",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.webp"
+    },
+    {
         "title": "Hades",
         "url": "https://www.igdb.com/games/hades--1",
         "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.png"
@@ -23,10 +28,5 @@
         "title": "Super Mario Bros. Wonder",
         "url": "https://www.igdb.com/games/super-mario-bros-wonder",
         "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nnl.png"
-    },
-    {
-        "title": "如龙0",
-        "url": "https://www.igdb.com/games/yakuza-0",
-        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co252x.png"
     }
 ]
