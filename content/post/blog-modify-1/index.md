@@ -3,7 +3,8 @@ title: 施工 | 软装记录与多端写作工具流
 date: 2023-09-28T22:58:46+08:00
 categories:
   - Blog
-tags: []
+tags: 
+draft: true
 ---
 
 # 打造基于 Git + Obsidian 的多端同步写作工具流
