@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://zhen-shi.github.io
 languageCode: en
 theme: hugo-theme-stack
 paginate: 5
@@ -186,6 +186,11 @@ menu:
           url: https://neodb.social/users/HashBrown@bgme.me/
           params:
               icon: bookmarks
+        - identifier: rss
+          name: rss
+          url: https://zhen-shi.github.io/index.xml
+          params:
+              icon: rss
 
 related:
     includeNewer: true
