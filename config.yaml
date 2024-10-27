@@ -3,6 +3,7 @@ languageCode: en
 theme: hugo-theme-stack
 paginate: 5
 title: 枕石
+timeout: 10m
 
 
 # Theme i18n support
