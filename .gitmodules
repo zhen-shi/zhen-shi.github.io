@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/zhen-shi/hugo-theme-stack
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "content"]
+	path = content
+	url = git@github.com:zhen-shi/blog-content.git

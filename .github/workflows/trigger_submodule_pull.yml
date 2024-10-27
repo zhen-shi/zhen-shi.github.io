@@ -1,0 +1,26 @@
+name: Trigger Submodule Pull
+on: [repository_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Event Information
+        run: |
+          echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.repository }}'"
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MY_REPO_PAT }}
+          submodules: true
+      - name: Pull submodule
+        run: |
+          git pull --recurse-submodules
+          git submodule update --init --recursive --remote
+      - name: Push changes
+        run: |
+          git config --global user.name 'HashBrown'
+          git config --local user.email "125674614+zhen-shi@users.noreply.github.com"
+          git add .
+          git commit -m "Automated report"
+          git push
