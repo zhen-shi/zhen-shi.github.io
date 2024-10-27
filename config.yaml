@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon/favicon.svg # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2023
@@ -39,7 +39,7 @@ params:
         avatar:
             enabled: false
             local: true
-            src: img/avatar.jpg
+            src: img/avatar.png
 
     article:
         math: false
