@@ -47,7 +47,7 @@ params:
         readingTime: false
         license:
             enabled: true
-            default: Licensed under CC BY-NC-ND 4.0
+            default: UNAUTHORIZED COPYING AND REPLICATION ARE PROHIBITED.
 
     comments:
         enabled: true
