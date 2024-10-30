@@ -47,7 +47,7 @@ params:
         readingTime: false
         license:
             enabled: true
-            default: UNAUTHORIZED COPYING AND REPLICATION ARE PROHIBITED.
+            default: UNAUTHORIZED COPYING AND REPLICATION ARE PROHIBITED
 
     comments:
         enabled: true
@@ -84,10 +84,10 @@ params:
             lang: en
             pageview:
             emoji:
+                - https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan
                 - https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs
                 - https://unpkg.com/@waline/emojis@1.2.0/alus
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
- 
+
             requiredMeta:
                 - nick
                 - email
