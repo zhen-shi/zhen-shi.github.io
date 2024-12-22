@@ -175,17 +175,6 @@ menu:
     main: []
 
     social:
-        # - identifier: mastodon
-        #   name: Mastodon
-        #   url: https://bgme.me/@HashBrown
-        #   params:
-        #       icon: brand-mastodon
-
-        - identifier: neodb
-          name: NeoDB
-          url: https://neodb.social/users/HashBrown@bgme.me/
-          params:
-              icon: bookmarks
         - identifier: rss
           name: rss
           url: https://zhen-shi.github.io/index.xml
