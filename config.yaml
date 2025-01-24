@@ -172,21 +172,13 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main:
+    main: []
+    social:
         - identifier: notes
           name: Notes
           url: https://zhen-shi.github.io/notes/
-          weight: -50
           params:
-              icon: bookmarks
-              newTab: true
-
-    social:
-        - identifier: rss
-          name: rss
-          url: https://zhen-shi.github.io/index.xml
-          params:
-              icon: rss
+              icon: notebook
 
 related:
     includeNewer: true
