@@ -208,3 +208,5 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+enableRobotsTXT: true
