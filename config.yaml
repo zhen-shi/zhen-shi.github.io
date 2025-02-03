@@ -47,7 +47,7 @@ params:
         readingTime: false
         license:
             enabled: true
-            default: <small>UNAUTHORIZED COPYING PROHIBITED.<br>作者保留所有权利，禁止转载。</small>
+            default: <small>All Right Reserved, Not for Reproduction.<br>作者保留所有权利，禁止转载。</small>
 
     comments:
         enabled: true
