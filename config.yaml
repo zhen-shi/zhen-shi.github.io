@@ -179,6 +179,11 @@ menu:
           url: https://zhen-shi.github.io/notes/
           params:
               icon: notebook
+        - identifier: rss
+          name: rss
+          url: https://zhen-shi.github.io/index.xml
+          params:
+              icon: rss
 
 related:
     includeNewer: true
